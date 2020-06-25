@@ -1,2 +1,3 @@
 #!/bin/bash
-#add fix to exercise1 here
+# Deleting the malicious route :) 
+route del -host textfiles.com
